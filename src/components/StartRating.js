@@ -22,5 +22,4 @@ export default function StarRating({ value = 0, onChange, size = 20, readOnly = 
       ))}
     </div>
   );
-}
-
+          }
